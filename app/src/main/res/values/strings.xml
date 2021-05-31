@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyAPI</string>
+    <string name="issue_id">ISSUE:</string>
+    <string name="volume">VOLUME:</string>
+    <string name="number">NUMBER:</string>
+    <string name="year">YEAR:</string>
+    <string name="date_published">DATE PUBLISHED:</string>
+    <string name="title">TITLE:</string>
+    <string name="doi">DOI:</string>
+    <string name="cover">COVER:</string>
+</resources>
